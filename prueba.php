@@ -7,5 +7,5 @@
     echo "nuevo echo";
      echo "JODANSE";
     echo "nuevo echo";
-    echo "Hola chicos guapos";
+    echo "AY AMORES LLOREN PUES";
 ?>NO JODAN NI IDEA COMO SE SUBIO ESA IMAGEN ALLI QUE PEDO COMO SE SUBIO SE LOS JURO QUE YO NO LA SUBI
